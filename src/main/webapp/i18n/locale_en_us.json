@@ -1,6 +1,5 @@
 {
   "directives.language-select.Language": "Language",
-  "Login.view.Login": "Login",
   "Home.view.Admin": "Admin",
   "Home.view.Cidade": "City",
   "Home.view.Logout": "Logout",
@@ -104,5 +103,14 @@
   "DataDoEmprestimo": "Date of the Loan",
   "MinhasReservas": "My Booking",
   "Reserva": "My Reservation",
-  "Livro": "Book"
+  "Livro": "Book",
+  "Users.view.novo": "New user",
+  "Title": "Title",
+  "Login.view.Login": "Register",
+  "newuser.view.newuser": "Sign up",
+  "E-mail": "E-mail",
+  "Email": "E-mail",
+  "btnCadNew": "Save",
+  "Salvar": "Save",
+  "cadastre-se": "Save"
 }

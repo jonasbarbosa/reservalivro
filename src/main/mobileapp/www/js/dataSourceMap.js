@@ -4,6 +4,7 @@ window.dataSourceMap["app.Livro"] = { customId: "app.entity.Livro", serviceUrl: 
 window.dataSourceMap["app.User"] = { customId: "app.entity.User", serviceUrl: "api/cronapi/crud/app.entity.User", serviceUrlODATA: "/api/cronapi/odata/v2/app/User" };
 window.dataSourceMap["app.auth"] = { customId: "auth", serviceUrl: "api/cronapi/query/auth/", serviceUrlODATA: "/api/cronapi/odata/v2/app/auth" };
 window.dataSourceMap["app.roles"] = { customId: "roles", serviceUrl: "api/cronapi/query/roles/", serviceUrlODATA: "/api/cronapi/odata/v2/app/roles" };
+window.dataSourceMap["app.query875260"] = { customId: "query875260", serviceUrl: "api/cronapi/odata/v2/query875260/", serviceUrlODATA: "/api/cronapi/odata/v2/app/query875260" };
 window.dataSourceMap["app.Device"] = { customId: "app.entity.Device", serviceUrl: "api/cronapi/crud/app.entity.Device", serviceUrlODATA: "/api/cronapi/odata/v2/app/Device" };
 window.dataSourceMap["app.Reserva"] = { customId: "app.entity.Reserva", serviceUrl: "api/cronapi/crud/app.entity.Reserva", serviceUrlODATA: "/api/cronapi/odata/v2/app/Reserva" };
 window.dataSourceMap["app.query452297"] = { customId: "query452297", serviceUrl: "api/cronapi/odata/v2/query452297/", serviceUrlODATA: "/api/cronapi/odata/v2/app/query452297" };

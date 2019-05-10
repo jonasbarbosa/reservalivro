@@ -1,6 +1,5 @@
 {
   "directives.language-select.Language": "Idioma",
-  "Login.view.Login": "Entrar",
   "Home.view.Admin": "Admin",
   "Home.view.Cidade": "Cidade",
   "Home.view.Logout": "Sair",
@@ -104,5 +103,14 @@
   "DataDoEmprestimo": "Data do Empréstimo",
   "MinhasReservas": "Minhas Reservas",
   "Reserva": "Minhas Reserva",
-  "Livro": "Livro"
+  "Livro": "Livro",
+  "Users.view.novo": "Novo usuário",
+  "Title": "Title",
+  "Login.view.Login": "Registre-se",
+  "newuser.view.newuser": "Cadastre-se",
+  "E-mail": "E-mail",
+  "Email": "Email",
+  "btnCadNew": "Salvar",
+  "Salvar": "Salvar",
+  "cadastre-se": "Salvar"
 }
